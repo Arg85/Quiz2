@@ -1,4 +1,4 @@
-var ReadLineSync=require('readline-sync')
+Harry Povar ReadLineSync=require('readline-sync')
 var count=0;
 var input=ReadLineSync.question("enter your name :")
 console.log("Welcome to the Harry Potter Quiz :",input)
